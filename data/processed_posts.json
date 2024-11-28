@@ -1,114 +1,276 @@
 [
     {
         "text": "Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers claiming that he can help you in growing your platform, copying the posts from other influencers.",
-        "engagement": 90,
         "line_count": 1,
         "language": "English",
         "tags": [
-            "Social Media",
-            "Motivation",
-            "Scams"
-        ]
+            "Scams",
+            "Social Media"
+        ],
+        "purpose": "Announcement",
+        "audience": "General LinkedIn users",
+        "domain": "Technology and Innovation"
     },
     {
         "text": "Jobseekers, this one\u2019s for you.\n Every application, every interview, every follow-up\u2026 the pressure is immense.\n And I know what you're thinking: Am I not good enough? \n But let me tell you, this isn\u2019t about you or your skills. It\u2019s about a broken system where 60% of applicants never hear back. \n Your mental health is not worth sacrificing for a system that doesn\u2019t acknowledge your worth. \n Please remember, taking care of yourself is the real priority. \n Your dream job will come, but for now, breathe. \ud83c\udf3b",
-        "engagement": 347,
         "line_count": 7,
         "language": "English",
         "tags": [
             "Job Search",
-            "Mental Health",
             "Motivation",
-            "Self Improvement",
-            "Personal Growth"
-        ]
+            "Mental Health"
+        ],
+        "purpose": "Inspirational",
+        "audience": "Job seekers or recruiters",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you\u2019re just left ghosted.",
-        "engagement": 109,
         "line_count": 1,
         "language": "English",
         "tags": [
             "Job Search"
-        ]
+        ],
+        "purpose": "Humor",
+        "audience": "Job seekers or recruiters",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn\u2019t even apply for!' \n The catch? Pay Rs. 50,000 for the honor.",
-        "engagement": 115,
         "line_count": 2,
         "language": "Hinglish",
         "tags": [
             "Scams"
-        ]
+        ],
+        "purpose": "Announcement",
+        "audience": "Job seekers or recruiters",
+        "domain": "Social and Environmental impact"
     },
     {
         "text": "sapne dekhna achi baat hai,\nlekin job ka sapna dekh ke 'interested' likhna,\nyeh toh achi baat nahi hai na?",
-        "engagement": 545,
         "line_count": 3,
         "language": "Hinglish",
         "tags": [
-            "Motivation",
             "Job Search"
-        ]
+        ],
+        "purpose": "Inspirational",
+        "audience": "Job seekers or recruiters",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.\nIf there's a link attached to it, it's most probably a fake one.\nSaves me time!",
-        "engagement": 188,
-        "line_count": 3,
+        "line_count": 4,
         "language": "English",
         "tags": [
-            "Productivity",
             "Scams"
-        ]
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "General LinkedIn users",
+        "domain": "Technology and Innovation"
     },
     {
         "text": "Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch in the gut. The sleepless nights, the endless preparation, all for nothing.\n\nBut looking back, I realize it wasn\u2019t nothing. It was the Universe\u2019s way of saying, \u201cNot this one, something better is on the way.\u201d\n\nEvery single time, I\u2019ve been shown why that rejection happened.\n\nDoors I thought I wanted to walk through were shut, only to have the right ones swing open.\n\nThe kind that aligned with my growth, my values, and my happiness.\n\nAt first, it stung. It hurt deeply. But now, when things don\u2019t go as planned, I don\u2019t panic.\n\nI don\u2019t question my worth. I sit back, breathe, and trust. The Universe knows.\n\nI know there's another plan waiting. Something bigger, better, and just for me.\n\nTo anyone feeling the weight of rejection: trust that the closed doors are protecting you from something you can\u2019t see right now.\n\nYour path is being cleared for something even more beautiful.",
-        "engagement": 206,
         "line_count": 14,
         "language": "English",
         "tags": [
             "Motivation",
-            "Personal Growth",
-            "Self Improvement",
-            "Job Search",
-            "Inspiration"
-        ]
+            "Personal Growth"
+        ],
+        "purpose": "Inspirational",
+        "audience": "General LinkedIn users",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "To everyone who's still looking for a job...\n\nI see you. I feel you. \ud83d\udc94\n\nEvery rejection email feels like a punch in the gut, and every 'We'll get back to you' sounds more like 'You'll never hear from us.'\n\nBut I want you to know, you're not alone in this. \ud83c\udf38\n\nAccording to a study, 80% of jobseekers struggle with anxiety and self-doubt during their search. It's normal to feel lost, but it's not the end.\n\nTake breaks, breathe, and remember, this doesn't define you. Your worth is not tied to an offer letter. \ud83d\udca5\n\nYour mental health matters more than any job.",
-        "engagement": 899,
-        "line_count": 9,
+        "line_count": 11,
         "language": "English",
         "tags": [
             "Job Search",
             "Motivation",
-            "Mental Health",
-            "Self Improvement",
-            "Anxiety"
-        ]
+            "Mental Health"
+        ],
+        "purpose": "Inspirational",
+        "audience": "Job seekers or recruiters",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "Sometimes, we forget that a company\u2019s brand name doesn\u2019t define someone\u2019s talent. It\u2019s easy to get caught up in the 'big company = big talent' mindset, but that's not always the case.\n\nI\u2019ve had the privilege of working with people from smaller companies (lesser known) who blow me away with their skills and dedication. They don\u2019t need a fancy title or a famous brand behind them to prove their worth.\n\nI've seen the other side too\u2014people in top-tier companies feeling lost, overwhelmed, or stuck, even though the world sees them as 'successful'.\n\nLet\u2019s stop attaching someone\u2019s value to the company they work for. Freshers especially need to hear this\u2014skills are what matter, not the size of the company behind them.\n\nAt the end of the day, happiness and growth don\u2019t come from a brand name, they come from doing what you love and constantly improving your craft.",
-        "engagement": 166,
         "line_count": 9,
         "language": "English",
         "tags": [
+            "Career Development",
             "Motivation",
-            "Personal Growth",
-            "Self Improvement"
-        ]
+            "Personal Growth"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Job seekers or recruiters",
+        "domain": "Personal and Professional development"
     },
     {
         "text": "So when I left a toxic work environment, I told my manager a simple thing and felt so good \ud83d\ude2f\n\nI just said-\n\n'Hope your son gets a manager like you.\nI hope that the manager behaves the same way as you did with me.\nThank you.'\n\nNow tell me 1 thing-\n\nShe always said that she was a great manager.\nWhy will she get offended?\n\nI just told her that I wish her son would get a manager like she was.\n\nIf you felt bad, then that means you were a bad manager and now you know it. \ud83d\udc1d\n\nIf you feel good, then take it as a blessing for your son and you'll really want someone to treat your son/daughter in the same way.\n\nShe cannot be even angry with me else it'll prove that she was not a 'great' manager.\n\nMuskan - 1\nManager - 0\n\nMuskan -> Aura +100000000\n\n(Fictional message unfortunately :()\n\nHope you all become the people that your sons/daughters will like to work under \ud83d\ude4f\n\nThere are a lot of bad people/things, bring a small change and break the chain :)",
-        "engagement": 1111,
         "line_count": 17,
         "language": "English",
         "tags": [
             "Motivation",
-            "Personal Growth",
+            "Personal Growth"
+        ],
+        "purpose": "Inspirational",
+        "audience": "General LinkedIn users",
+        "domain": "Personal and Professional development"
+    },
+    {
+        "text": "The world wigs out...thanks to India, The fact that we need to export more and import less is a given. Looking at uncool ideas and not the flavour of the season makes sense in so many places. I'm guessing the odds of succeeding here in entrepreneurship are likely higher compared to stamping AI on a bunch of random things...",
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Entrepreneurship",
+            "Economic Growth"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Professional peers",
+        "domain": "Business and Entrepreneurship"
+    },
+    {
+        "text": "As Generative AI finds its place in the legal space, it doesn\u2019t seek to replace the hands that craft justice, but rather to lighten their load. It allows lawyers to step deeper into their role as strategists and thinkers, elevating their focus. Could this, then, be the next big leap?",
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Professional peers",
+        "domain": "Technology and Innovation"
+    },
+    {
+        "text": "The current thesis I have\u2026 thesis, passion, fascination, is to watch Indian startups kill it in today\u2019s ecosystem. I hope that a lot of the companies we support will retell the Indian story, the real one, without any baggage from the past. It's our decade. WTFund is India\u2019s premier non-dilutive grant fund for emerging entrepreneurs under 25. Through the first WTFund Cohort (C1/24), 9 startups with 15 young founders under the age of 25, were shortlisted and these are some of the coolest ones we discovered.. The second cohort applications are now open and if you are a young entrepreneur under or at the age of 25, you should apply.",
+        "line_count": 5,
+        "language": "English",
+        "tags": [
+            "Startups",
+            "Entrepreneurship",
+            "India",
+            "Youth",
+            "Innovation"
+        ],
+        "purpose": "Announcement",
+        "audience": "Job seekers or recruiters",
+        "domain": "Business and Entrepreneurship"
+    },
+    {
+        "text": "When I speak about AI, I often say that doctors leveraging AI are more effective than AI alone\u2014and far more effective than doctors not using AI at all. This belief reflects my optimism for AI as a transformative tool in medicine. However, this study shared by Allie K. Miller paints a different, eye-opening and somehow concerning picture. According to JAMA Network Open, ChatGPT alone achieved a remarkable 90% diagnostic accuracy. Surprisingly, doctors using ChatGPT for assistance only scored 76%\u2014barely better than those without AI support (74%). Why is this happening? Two challenges stand out: 1\ufe0f\u20e3 Overconfidence: Doctors sometimes ignored ChatGPT\u2019s correct diagnoses if they conflicted with their own reasoning. This highlights the need for AI to better explain the 'why' behind its recommendations, fostering trust without manipulation. 2\ufe0f\u20e3 Underuse: Many doctors treat AI as a glorified Google search. Instead of fully engaging with the data\u2014e.g., inputting detailed patient histories and analyzing responses\u2014they miss the true potential of tools like ChatGPT.",
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "Healthcare",
+            "Technology",
+            "Medical Diagnosis",
+            "AI Ethics"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Professional peers",
+        "domain": "Technology and Innovation"
+    },
+    {
+        "text": "AI in 2024: A Leadership Opportunity, Not Just a Technology Shift. AI is no longer just transforming industries\u2014it\u2019s reshaping what it means to lead effectively. As a leadership coach, I see this as a critical moment for leaders to step up and embrace AI strategically. If we fail to lead with purpose in this era, we risk falling behind. Here are four principles I believe every leader should consider: 1\ufe0f\u20e3 Generative AI: It\u2019s About Value, Not Just Tools Generative AI is changing the game across industries, but tools alone won\u2019t drive impact. Leaders must ask: How does AI align with our strategy? How can it amplify human potential? The best leaders ensure AI innovation delivers tangible business value and empowers their teams. 2\ufe0f\u20e3 Focus on People, Not Just Systems AI doesn\u2019t replace people\u2014it enhances their potential. Organizations thriving with AI are those investing in upskilling their teams and fostering cross-functional collaboration. As I often remind leaders: Your team\u2019s ability to adapt to AI reflects your ability to lead with vision and empathy. 3\ufe0f\u20e3 Ethical Leadership in AI With great power comes great responsibility. AI demands leaders address challenges like bias, ethical concerns, and security risks. Governance frameworks are essential for building trust and ensuring AI initiatives create sustainable, positive impact. 4\ufe0f\u20e3 Leadership as Strategy Architect The divide between AI leaders and laggards is growing. The most effective leaders are embedding AI into their core strategies\u2014not treating it as a one-off initiative. Are you driving transformation or just reacting to trends?",
+        "line_count": 9,
+        "language": "English",
+        "tags": [
+            "Artificial Intelligence",
             "Leadership",
-            "Work Life",
-            "Inspiration"
-        ]
+            "Technology",
+            "Innovation",
+            "Strategy"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Professional peers",
+        "domain": "Technology and Innovation"
+    },
+    {
+        "text": "If you want media attention - either be interesting or be ready to spend money. You can\u2019t be boring & unidimensional and expect media to give you free PR.",
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Media Coverage"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "General LinkedIn users",
+        "domain": "Business and Entrepreneurship"
+    },
+    {
+        "text": "We cannot have skilled work force if we do not solve this problem! Sometimes, I get a little agitated when young boys and girls we work with in villages take 3-4 attempts to learn simple things. \u201cWhy can\u2019t you understand something so simple? Why are you not putting in the effort?\u201d But then, if you see their physical health and diet, you will just know why. It is very expensive to have a nutritious meal, twice or thrice a day. In cities, we are aware abt vitamin, protein & mineral deficiencies and we can supplement it. We feel tired, doc tells us B12 could help. We feel constantly sad and body pains, a doctor tells us Vit D could help. But this is so unheard of for most Indians. Most people in rural India are far from being healthy enough to learn new skills and use mental cognitive abilities at reasonable capacity. To have chemicals that strengthen our logical, analytical reasoning ability, to memorise stuff, our brain needs nutrition. Education system or skill India jese initiatives kya kar lenge jab insaan ka shareer aur dimag hi kamzor hai? Right now we are only producing labour that is not upskill-able. Zeal, joy, confidence, willingness to work hard - these are all chemical & hormonal triggers. We need food that keeps hormones in check. It is sooo painful to see what kids get at so many mid day schools. Itne weak hai ye bachhe physically bhi its unreasonable to expect them to learn well or get medals for us at Olympics. We really need to solve this. Nutrition that is affordable and accessible for Bharat\ud83d\ude4f If govt could do it, they would have. So much leakage in between. Pata nahi kese chote bachho ke hakk ka khana churane walo ke gale se khana utarta hai.",
+        "line_count": 14,
+        "language": "Hinglish",
+        "tags": [
+            "Education",
+            "Health",
+            "Nutrition",
+            "Societal Issues",
+            "Youth Development"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "General LinkedIn users",
+        "domain": "Social and Environmental impact"
+    },
+    {
+        "text": "100% agreed to this - in my experience, working with a full-time team of 80+, optimal working hours is 5 hours. Even I can\u2019t work productively for more than 6-7 hours a day, rest of the time it\u2019s only doing mundane work or as we call it in office \u2018executive time pass\u2019. Whenever team members work for more than normal hours, I just know something is not right in their personal life & they are just overworking to distract themselves. That\u2019s not sustainable. I\u2019m lucky to work in a place where, if my mood tanks or anxiety kicks in, my boss doesn\u2019t just give me a pep talk \u2013 they hand me a punching bag or a sleeping bed to smash or snooze it out! And when that\u2019s done, they even order food to refuel the soul. Now that\u2019s how you handle bad vibes \u2013 with punches, naps, and snacks!",
+        "line_count": 6,
+        "language": "English",
+        "tags": [
+            "Productivity",
+            "Work-Life Balance",
+            "Mental Health",
+            "Team Management",
+            "Wellness"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "Professional peers",
+        "domain": "Business and Entrepreneurship"
+    },
+    {
+        "text": "Coffee lovers of LinkedIn, need a small favour .. If you know of good coffee places in Mumbai, not too noisy, where you can sit and have a conversation, please get off LinkedIn and go there with your friends",
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Community Building"
+        ],
+        "purpose": "Engagement",
+        "audience": "General LinkedIn users",
+        "domain": "Creative and Cultural Topics"
+    },
+    {
+        "text": "The difference between a good boss and a bad boss is your appraisal rating ..",
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Motivation"
+        ],
+        "purpose": "Inspirational",
+        "audience": "General LinkedIn users",
+        "domain": "Personal and Professional development"
+    },
+    {
+        "text": "Normal Person: Happy Diwali Same Person on LinkedIn: 7 things you can learn from Diwali - The Festival of lights .. hashtag#Diwali hashtag#Festival hashtag#Lights .. Follow me for more such posts hashtag#LinkedIn Agree? hashtag#OpenToConnect hashtag#GrowthHacker",
+        "line_count": 2,
+        "language": "Hinglish",
+        "tags": [
+            "Festival",
+            "Personal Growth",
+            "Motivation"
+        ],
+        "purpose": "Knowledge sharing",
+        "audience": "General LinkedIn users",
+        "domain": "Personal and Professional development"
+    },
+    {
+        "text": "Today I booked a cab & the cab driver did not call me to find out where I wanted to go, did not cancel, reached on time at the exact correct location.. As you can guess I was so shocked by this behaviour that the first thing I told him when I saw him was \u201cYou forgot to bring the car\u201d",
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Humor"
+        ],
+        "purpose": "Engagement",
+        "audience": "General LinkedIn users",
+        "domain": "Personal and Professional development"
     }
 ]
