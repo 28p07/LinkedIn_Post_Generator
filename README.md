@@ -1,6 +1,6 @@
 ## **LinkedIn Post Generator**
 
-### Features
+## Features
 
 - **Customizable Inputs**: Select or input custom values for:
   - **Purpose**: Choose the goal of the post (e.g., Awareness, Engagement).
